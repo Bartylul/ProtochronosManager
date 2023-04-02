@@ -1,0 +1,12 @@
+h1 {
+    border-top: 1px solid #555;
+    border-bottom: 1px solid #555;
+    padding-top: 20px;
+    font-size: 70px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+h2 {
+    padding-top: 30px;
+}
