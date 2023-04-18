@@ -1,0 +1,23 @@
+h1 {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+table.e {
+    width: 60%;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 20px;
+    
+}
+
+div {
+    padding-top: 15%;
+    text-align: center;
+    margin: auto;
+}
+
+button {
+    width: 200px
+}

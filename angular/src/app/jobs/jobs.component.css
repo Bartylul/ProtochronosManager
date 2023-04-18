@@ -1,0 +1,27 @@
+table.e {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    font-size: 20px;
+    
+}
+
+div {
+    padding-top: 50px;
+    text-align: center;
+    margin: auto;
+}
+
+h1 {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+button {
+    width: 300px;
+}
+
+a {
+    width: 300px;
+}

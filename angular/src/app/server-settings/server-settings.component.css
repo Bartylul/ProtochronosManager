@@ -1,0 +1,24 @@
+h1 {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+ul {
+    padding-left: 50px;
+}
+
+h2 {
+    font-size: 20px;
+    padding-right: 500px;
+    padding-left: 500px;
+}
+
+button.abc {
+    float: right;
+    margin-right: 50px;
+}
+
+button.bca {
+    float: left;
+    margin-left: 50px;
+}

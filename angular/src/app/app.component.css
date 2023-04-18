@@ -1,0 +1,93 @@
+h1 {
+    border-top: 1px solid #555;
+    border-bottom: 1px solid #555;
+    padding-top: 20px;
+    font-size: 50px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+h2 {
+    padding-top: 30px;
+    
+}
+
+div.abc {
+    margin-bottom: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    width: auto;
+    height: 877px;
+}
+
+span.a {
+    font-size: 70px;
+    float: left;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+i.b {
+    margin-left: 100px;
+    font-size: 70px;
+    padding-left: 13px;
+    padding-right: 13px;
+
+}
+
+i.c {
+    margin-left: 30px;
+    font-size: 70px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+i.d {
+    margin-left: 30px;
+    font-size: 70px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+i.e {
+    margin-left: 30px;
+    font-size: 70px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+i.f {
+    margin-left: 30px;
+    font-size: 70px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+i.g {
+    float: right;
+    margin-left: 30px;
+    font-size: 70px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+i.h {
+    float: right;
+    margin-left: 30px;
+    font-size: 70px;
+    margin-right: 30px;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+ul.ver {
+    float: left;
+    font-size: 20px;
+ list-style: none;   
+}
+
+ul.ver2 {
+    float: right;
+    font-size: 20px;
+    list-style: none; 
+}
